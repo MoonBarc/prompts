@@ -8,5 +8,6 @@ public enum InputType {
     SIGN_INPUT,
     BOOK_INPUT,
     ANVIL_INPUT,
-    COLOR_SELECTOR
+    COLOR_SELECTOR,
+    KEY_HOLE
 }

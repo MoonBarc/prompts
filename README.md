@@ -18,6 +18,8 @@ Featuring:
  - Destructive action confirmation
     - delayed button (button is greyed out for x seconds)
     - knob (drag item and drop it in specific slot to confirm)
+ - Key GUI
+    - player needs to insert special key to do action
  - General action confirmation
  - And more!
  
